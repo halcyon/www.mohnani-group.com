@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+![Lachman Mohnani](../img/lachman-mohnani.jpg "Lachman Mohnani 2")
 
 For over 65 years we have been committed to serving the needs of our
 clients from over 70 countries. Our reputation is based upon a

@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";
+
+.markdown-table {
+    border-collapse: collapse;
+    td, th {
+        // font-weight: 600;
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+    }
+    tr {
+        background-color: #fff;
+    }
+    tr:nth-child(2n) {
+        background-color: #f6f8fa;
+    }
+}

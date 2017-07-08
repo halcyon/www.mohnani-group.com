@@ -19,7 +19,7 @@ firms. These apartments are available for rent furnished or
 unfurnished on either a short or long term lease.
 
 ### Apartment sized to international standards
-* 1 bed/1 bath (610 Sq Ft/57 Sq meters) - 4 beds/4 bath (2050 Sq Ft/190 Sq meters)
+* 1 Bed/1 Bath (610 SQ.FT / 57 SQ.M) - 4 Beds/4 Baths (2050 SQ.FT / 190 SQ.M)
 
 ### Features
 * Central air & heat

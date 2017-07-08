@@ -1,14 +1,22 @@
 ---
 ---
 
-.mohnani-building {
+.float-left {
   img {
     float: left;
     clear: right;
     margin-right: .5em;
   }
-  .clear {
+}
+
+.float-right {
+  img {
+    float: right;
+    margin-left: .5em;
+  }
+}
+
+.clear {
     clear: both;
     margin-bottom: 1em;
-  }
 }

@@ -9,7 +9,7 @@ are located within a 3-minute walk to 5-star hotels, restaurants,
 luxury retailers, major banks, post-office, government offices, parks,
 and the subway.
 
-<div class="mohnani-building">
+<div class="float-left">
   <img src="../img/mohnani-building.jpg">
   <p>
     Our apartments have been specifically designed to meet the housing

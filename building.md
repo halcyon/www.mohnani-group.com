@@ -38,3 +38,5 @@ unfurnished on either a short or long term lease.
 * Washer and dryer
 * Telephone
 * Cable TV
+
+>We are committed to making your stay at The Mohnani Building a pleasant experience

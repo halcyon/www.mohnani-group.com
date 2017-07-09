@@ -4,7 +4,7 @@ title: Client Services
 permalink: /client/
 ---
 
->We make it easier to transact business in Japan's very expensive marketplace
+> WE MAKE IT EASIER TO TRANSACT BUSINESS IN JAPAN'S VERY EXPENSIVE MARKETPLACE.
 
 ![Lakhi Mohnani](../img/lakhi-mohnani.jpg "Lakhi Mohnani"){:style="float: right; margin-left: 1em"}
 
@@ -44,4 +44,4 @@ branch office in Japan, representing your company and servicing your
 products and customers. We can help foreign companies get the right
 start.
 
-> It's a small world - until you have a problem on the other side of it
+> IT'S A SMALL WORLD - UNTIL YOU HAVE A PROBLEM ON THE OTHER SIDE OF IT.

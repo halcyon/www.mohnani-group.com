@@ -3,17 +3,46 @@
 
 @import "minima";
 
+.site-header {
+    background-color: black;
+}
+
+.site-title, .site-title:visited, a:hover {
+    font-weight: 600;
+    color: white;
+}
+
+.site-nav .page-link {
+    font-weight: 600;
+    color: white;
+}
+
+blockquote {
+    background-color: #006666;
+    border-left: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    font-weight: 600
+    font-family: sans-serif;
+}
+
 .markdown-table {
     border-collapse: collapse;
     td, th {
-        // font-weight: 600;
         padding: 6px 13px;
-        border: 1px solid #dfe2e5;
+        border: 1px solid #DFE2E5;
     }
     tr {
-        background-color: #fff;
+        background-color: white;
     }
     tr:nth-child(2n) {
-        background-color: #f6f8fa;
+        background-color: #F6F8FA;
+    }
+    th:nth-child(2), td:nth-child(2) {
+        background-color: #ABE2F5;
+    }
+    th:nth-child(3), td:nth-child(3) {
+        background-color: #A9D7BF;
     }
 }

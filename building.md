@@ -39,4 +39,4 @@ unfurnished on either a short or long term lease.
 * Telephone
 * Cable TV
 
->We are committed to making your stay at The Mohnani Building a pleasant experience
+> WE ARE COMMITTED TO MAKING YOUR STAY AT THE MOHNANI BUILDING A PLEASANT EXPERIENCE.

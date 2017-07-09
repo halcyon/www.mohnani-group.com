@@ -26,4 +26,4 @@ doing business. We know that without the right connections doing
 business in a foreign country can be quite puzzling. Our multi-lingual
 professional staff is ready to assist you and smooth your way.
 
-> To navigate the somewhat treacherous business landscape and help build bridges to Japan; look to someone who has been part of it since 1948
+> TO NAVIGATE THE SOMEWHAT TREACHEROUS BUSINESS LANDSCAPE AND HELP BUILD BRIDGES TO JAPAN, LOOK TO SOMEONE WHO HAS BEEN PART OF IT SINCE 1948.

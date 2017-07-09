@@ -24,4 +24,4 @@ it is only by getting to know us as professionals and individuals
 that you will understand the commitment we have to our clients and
 the value we can bring to your enterprise.
 
-> Our greatest assets are the relationships we have established with our clients.
+> OUR GREATEST ASSETS ARE THE RELATIONSHIPS WE HAVE ESTABLISHED WITH OUR CLIENTS.

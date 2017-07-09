@@ -1,10 +1,10 @@
->We make it easier to transact business in Japan's very expensive marketplace
-
 ---
 layout: page
 title: Client Services
 permalink: /client/
 ---
+
+>We make it easier to transact business in Japan's very expensive marketplace
 
 ![Lakhi Mohnani](../img/lakhi-mohnani.jpg "Lakhi Mohnani"){:style="float: right; margin-left: 1em"}
 

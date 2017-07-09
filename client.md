@@ -43,3 +43,5 @@ providing market access with valuable local guidance.  We can be your
 branch office in Japan, representing your company and servicing your
 products and customers. We can help foreign companies get the right
 start.
+
+> It's a small world - until you have a problem on the other side of it

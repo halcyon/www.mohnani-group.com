@@ -1,3 +1,5 @@
+>We make it easier to transact business in Japan's very expensive marketplace
+
 ---
 layout: page
 title: Client Services

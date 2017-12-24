@@ -16,7 +16,7 @@ good standing of the Yokohama Chamber of Commerce for over 60 years.
 
 ![The World](../img/world.gif "The World"){:style="float: left; margin-right: 1em;"}
 
-Our trading experience in over 70 countries over the past sixty-five
+Our trading experience in over 70 countries over the past seventy
 years gives us an enormous reservoir of expertise, knowledge and
 contacts. We have the business expertise, language skills, physical
 and financial facilities, and experience to serve you in Japan.

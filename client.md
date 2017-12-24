@@ -19,7 +19,7 @@ somewhat treacherous business landscape.
 
 ![Deepak Mukhi](../img/deepak-mukhi.jpg "Deepak Mukhi"){:style="float: right; margin-left: 1em;"}
 
-The benefits of sixty-five years of experience as exporters of
+The benefits of seventy years of experience as exporters of
 Japanese products are available to our clients. We can locate the
 product, obtain price quotes, negotiate with suppliers, coordinate and
 consolidate shipments, ensure on-time delivery, check that the
